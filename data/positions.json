@@ -1,0 +1,62 @@
+[
+  {
+    "ticker": "ABNB",
+    "shares": 1.22,
+    "avg_cost": 122.08,
+    "updated_at": "2026-02-17T20:04:46.250968"
+  },
+  {
+    "ticker": "AMZN",
+    "shares": 0.6,
+    "avg_cost": 208.53,
+    "updated_at": "2026-02-17T20:04:46.259383"
+  },
+  {
+    "ticker": "ANET",
+    "shares": 4.3,
+    "avg_cost": 140.0,
+    "updated_at": "2026-02-17T20:04:46.266026"
+  },
+  {
+    "ticker": "AVGO",
+    "shares": 0.48,
+    "avg_cost": 331.18,
+    "updated_at": "2026-02-17T20:04:46.272466"
+  },
+  {
+    "ticker": "GLD",
+    "shares": 0.18,
+    "avg_cost": 466.87,
+    "updated_at": "2026-02-17T20:04:46.278403"
+  },
+  {
+    "ticker": "GOOGL",
+    "shares": 0.54,
+    "avg_cost": 322.628259,
+    "updated_at": "2026-02-17T20:04:46.284764"
+  },
+  {
+    "ticker": "IWM",
+    "shares": 0.3,
+    "avg_cost": 262.41,
+    "updated_at": "2026-02-17T20:04:46.291291"
+  },
+  {
+    "ticker": "MU",
+    "shares": 0.1,
+    "avg_cost": 371.01,
+    "updated_at": "2026-02-17T20:04:46.297516"
+  },
+  {
+    "ticker": "NVDA",
+    "shares": 0.9,
+    "avg_cost": 184.3,
+    "updated_at": "2026-02-17T20:04:46.303922"
+  },
+  {
+    "ticker": "TSM",
+    "shares": 0.36,
+    "avg_cost": 349.0,
+    "updated_at": "2026-02-17T20:04:46.310574"
+  }
+]

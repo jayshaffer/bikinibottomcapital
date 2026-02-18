@@ -1,0 +1,242 @@
+[
+  {
+    "id": 75,
+    "ticker": "DDOG",
+    "direction": "long",
+    "confidence": "low",
+    "thesis": "Datadog (DDOG) is an AI-native observability platform that benefits from both the data center buildout AND the complexity of managing AI workloads. DA Davidson maintains Buy with $225 PT today. As companies deploy more AI infrastructure, they need monitoring/observability tools \u2014 DDOG is the leader in this space. Unlike pure SaaS companies getting disrupted by AI (ORCL, INTU down 3-5% today), DDOG's product becomes MORE necessary as AI complexity increases. The company has been growing revenue 25%+ and expanding its platform with AI-specific monitoring features. The software sector selloff has likely pulled DDOG down unfairly \u2014 AI observability is different from traditional SaaS. This provides cloud software diversification for our portfolio that is AI-enabling rather than AI-disrupted.",
+    "entry_trigger": "DDOG with DA Davidson Buy/$225 PT. If current price is 20%+ below PT, entry is attractive. Buy $75 worth on any further software sector pullback. Look for stabilization after the Anthropic/AI software panic subsides. Do NOT chase above $180.",
+    "exit_trigger": "Target $200-225 over 3-4 months based on DA Davidson PT. Take partial profits at $195. Stop loss at 20% below entry.",
+    "created_at": "2026-02-17T20:03:40.081118"
+  },
+  {
+    "id": 74,
+    "ticker": "CCJ",
+    "direction": "long",
+    "confidence": "medium",
+    "thesis": "Cameco (CCJ) is a pure-play nuclear/uranium company that benefits directly from the AI data center power demand narrative. RBC Capital today raised its price target and maintains Outperform. Nuclear power is the most reliable clean baseload power source for data centers \u2014 Amazon-backed nuclear companies just got US approval for reactor fuel. Microsoft, Google, and Amazon have all signed nuclear power agreements. The global uranium supply deficit is structural with limited new mine capacity. CCJ provides energy infrastructure diversification away from both semiconductors and traditional tech, while being positively correlated with the AI buildout theme. With gold pulling back sharply (down 3% today) and our GLD position under pressure, nuclear/uranium offers a better non-tech inflation/infrastructure hedge than precious metals in the current environment.",
+    "entry_trigger": "Research current CCJ price levels. If trading below $70 with RBC Outperform rating, buy $75 worth. Nuclear power demand for AI data centers is a secular multi-year theme. Enter on any broad market pullback this week. Do NOT chase above recent highs.",
+    "exit_trigger": "Target 15-20% upside over 3-6 months as nuclear power demand for AI data centers accelerates. Take partial profits at 15% gain. Stop loss at 15% below entry.",
+    "created_at": "2026-02-17T20:03:40.062266"
+  },
+  {
+    "id": 73,
+    "ticker": "WMT",
+    "direction": "long",
+    "confidence": "medium",
+    "thesis": "Walmart reports Q4 FY2026 earnings on Feb 19 before open. The company became the first traditional retailer to hit $1T market cap in Feb 2026, up ~20% YTD. E-commerce grew 27% globally, advertising up 53%, membership income up 17%. Revenue forecast $190.4B. AI transformation with \"Wally\" generative AI and logistics optimization is driving margin expansion. WMT provides perfect defensive diversification for our semiconductor-heavy portfolio \u2014 consumer staples hold up in volatile markets. General Mills just warned about weak consumer sentiment, but WMT's value proposition typically strengthens in uncertain times. Previous quarter beat EPS by 3.33% and revenue by 1.16%. The stock moved to NASDAQ from NYSE in Dec 2025, signaling tech-company identity. Risk: At $1T valuation, expectations are very high. Any miss could trigger significant downside.",
+    "entry_trigger": "WMT reports Feb 19 before open. Do NOT buy pre-earnings given $1T valuation risk. If WMT beats and guides up, buy $75 worth on any post-earnings pullback to consolidation. If it misses or guides cautiously due to consumer weakness (General Mills warned about this), avoid entirely. Only enter post-earnings with confirmed beat.",
+    "exit_trigger": "Target 10-12% upside over 3-4 months as defensive rotation continues and e-commerce/advertising growth compounds. Take partial profits at 8% gain. Stop loss at 10% below entry.",
+    "created_at": "2026-02-17T20:03:40.039270"
+  },
+  {
+    "id": 71,
+    "ticker": "PANW",
+    "direction": "long",
+    "confidence": "medium",
+    "thesis": "Palo Alto Networks reports fiscal Q2 2026 earnings tomorrow (Feb 17) after close. Cybersecurity is one of the strongest non-AI-disrupted sectors \u2014 AI actually increases attack surfaces, driving more security spending. PANW has beaten revenue estimates every quarter for the past 2 years. Q1 FY2026 showed strong platformization momentum: NGS ARR grew 29% to $5.85B, operating margins hit 30.2%, and they signed record-size deals ($85M XSIAM, $33M SASE). PANW guidance for Q2 is revenue $2.57-2.59B (consensus $2.58B) and non-GAAP EPS $0.93-0.95. The platformization strategy is winning large enterprise consolidation deals. Stock is at ~$167, down from highs, creating reasonable valuation. This is a quality cybersecurity name that provides non-semiconductor diversification for our portfolio. However, note that cybersecurity stocks have underperformed recently (down 11.8% on average) and PANW trades at 10.2x P/S vs sector 6.5x.",
+    "entry_trigger": "PANW reports Feb 17 after close. Do NOT buy pre-earnings given binary risk. If PANW beats and guides up (particularly on NGS ARR and billings), buy $75 worth on any post-earnings pullback to $165-180 range. If it gaps up above $180 and holds for 2 sessions, consider $50 entry. Do NOT chase above $190.",
+    "exit_trigger": "Target $195-210 (17-26% upside from $167) over 3-4 months as cybersecurity spending accelerates. Take partial profits at $190. Stop loss at $145 (below recent support).",
+    "created_at": "2026-02-16T20:02:07.166508"
+  },
+  {
+    "id": 70,
+    "ticker": "SNOW",
+    "direction": "long",
+    "confidence": "medium",
+    "thesis": "Snowflake surged ~6.4% today to $184 on what appears to be institutional accumulation (CNBC reported Amy Raskin bought more SNOW). The stock is a direct AI data infrastructure beneficiary \u2014 as companies deploy AI models, they need data platforms to organize, govern, and serve data for AI workloads. SNOW is transitioning from a data warehouse to an AI-native data platform with Cortex AI features. The AI disruption narrative is creating a bifurcation in software: companies whose products are replaced by AI (PINS -20% today) vs companies whose products are essential FOR AI (SNOW benefits). Data infrastructure is essential infrastructure for the AI buildout. SNOW reports earnings Feb 26 (day after NVDA), which could be a positive catalyst if data consumption metrics show AI-driven acceleration. The stock is down significantly from 52-week highs, creating an asymmetric entry. SNOW provides true software/data diversification for our semiconductor-heavy portfolio.",
+    "entry_trigger": "SNOW at ~$184 today, up 6.4%. Wait for any pullback to $170-180 range. If broader market weakness from Supreme Court ruling (Feb 20) pulls SNOW back to $170-175, buy $75 worth. Alternatively, if NVDA earnings on Feb 25 are strong and SNOW gaps up on AI sentiment before its own earnings Feb 26, consider a smaller $50 pre-earnings position if below $185. Do NOT chase above $195.",
+    "exit_trigger": "Target $220-240 (20-30% upside from $180 entry) over 3-4 months as AI data infrastructure demand accelerates. Take partial profits at $210. Stop loss at $150 (below recent support).",
+    "created_at": "2026-02-13T20:45:11.653132"
+  },
+  {
+    "id": 69,
+    "ticker": "CRWD",
+    "direction": "long",
+    "confidence": "low",
+    "thesis": "CRWD thesis under pressure: Stock fell ~7% today after Mizuho cut price target to $490 from $540 and DZ BANK issued a Sell rating. Insider selling activity is elevated (CEO sold $11.9M in shares Feb 4, CFO sold $5.4M). However, average analyst PT remains $538-555, consensus is Outperform. The 7% pullback may be creating the entry opportunity we've been waiting for \u2014 but the Mizuho downgrade citing moderating partner checks is a yellow flag. Earnings in March will be the true test. Cybersecurity sector broadly under pressure from AI disruption narrative.",
+    "entry_trigger": "CRWD now at ~$400-410 after 7% drop. This is below our original $410-425 entry range. If it stabilizes above $390 for 2 sessions, consider small $50 entry. The Mizuho downgrade creates uncertainty but analyst consensus remains bullish ($538 avg PT). Wait for stabilization before acting.",
+    "exit_trigger": "Target $500-520 (16-20% upside) over 3-4 months as cybersecurity spending accelerates in AI era. Take partial profits at $490. Stop loss at $370 (below recent support).",
+    "created_at": "2026-02-13T20:45:11.628872"
+  },
+  {
+    "id": 68,
+    "ticker": "NEE",
+    "direction": "long",
+    "confidence": "medium",
+    "thesis": "NextEra Energy just raised its quarterly dividend to $0.6232 from $0.57 (a 9.3% increase) and is trading at all-time highs. The rotation out of tech into utilities and energy infrastructure is a clear market theme \u2014 'old economy' sectors are outperforming as investors seek AI-adjacent plays without direct AI valuation risk. NEE benefits from: 1) Data center power demand (nuclear/renewables), 2) Amazon-backed nuclear company just got US approval for reactor fuel, 3) Rate cut expectations boost utility valuations, 4) Dividend growth provides income floor, 5) The infrastructure rotation is expected to persist as portfolio managers trim tech. NEE provides true non-tech diversification for our semiconductor-heavy portfolio.",
+    "entry_trigger": "NEE at all-time highs \u2014 do NOT chase. Wait for any 3-5% pullback from current levels. If Supreme Court tariff ruling on Feb 20 creates broad market volatility, NEE could pull back providing an entry. Buy $75 worth on any 3-5% dip from current highs. The dividend increase provides a valuation floor.",
+    "exit_trigger": "Target 10-15% upside over 3-4 months as utility sector rotation continues. Take partial profits at 10% gain. Stop loss at 12% below entry.",
+    "created_at": "2026-02-13T20:18:02.446128"
+  },
+  {
+    "id": 67,
+    "ticker": "COIN",
+    "direction": "long",
+    "confidence": "low",
+    "thesis": "Coinbase is trading near 52-week lows around $140-141, down 37% YTD despite strong operational metrics: trading volume and market share doubled in 2025, 12 products now generate $100M+ annualized revenue, Coinbase One subscriptions reached 1M. Q4 revenue missed ($1.78B vs $1.85B) and the stock posted a $667M net loss due to crypto mark-to-market, but adjusted EPS of $0.66 beat $0.64. Bitcoin surged 5% today to $69,000 \u2014 if crypto market recovers, COIN has massive operating leverage. The $2B expanded buyback signals management confidence. The stock is at extreme pessimism with a 52-week range of $139-$445. Pro-crypto regulatory environment under current administration. This is a deep value contrarian play that provides non-AI diversification.",
+    "entry_trigger": "COIN at ~$140-142, right near 52-week low of $139.36. If it holds above $135 for 2 sessions and Bitcoin stabilizes above $65,000, buy $75 worth. The extreme pessimism and proximity to 52-week low creates asymmetric upside. Do NOT buy if Bitcoin drops below $60,000 or COIN breaks below $130.",
+    "exit_trigger": "Target $180-200 (28-43% upside) over 3-4 months as crypto market recovers. Take partial profits at $170. Stop loss at $125 (below 52-week low support).",
+    "created_at": "2026-02-13T20:18:02.428088"
+  },
+  {
+    "id": 65,
+    "ticker": "CRSR",
+    "direction": "long",
+    "confidence": "low",
+    "thesis": "Corsair Gaming (CRSR) surged 55% today after a Q4 double beat: EPS $0.43 vs $0.27 estimate, revenue $436.9M vs $421M estimate. The company announced a $50M buyback. This is a consumer electronics/gaming play that provides pure diversification away from our AI/semiconductor names. The 55% surge on earnings indicates extremely strong positive surprise factor. However, FY2026 revenue guidance of $1.33-1.47B came in below $1.59B estimate, which adds uncertainty. At the surged price, wait for consolidation before entering. The gaming peripherals market is cyclical but Corsair's double beat suggests the cycle is turning.",
+    "entry_trigger": "CRSR surged ~55% today. Do NOT chase. Wait 3-5 sessions for post-earnings consolidation. The stock will likely give back some of the surge given the below-consensus FY2026 guidance. If CRSR pulls back 15-20% from surge highs and stabilizes, buy $50 worth. Look for entry in the pullback consolidation zone.",
+    "exit_trigger": "Target 20% upside from consolidation entry over 3-4 months as gaming cycle improves. Take partial profits at 15% gain. Stop loss at 25% below entry.",
+    "created_at": "2026-02-13T20:02:59.333741"
+  },
+  {
+    "id": 62,
+    "ticker": "EXPE",
+    "direction": "long",
+    "confidence": "medium",
+    "thesis": "Expedia crushed Q4 2025: adjusted EPS $3.78 beat $3.33 estimate (13.5% beat), revenue $3.547B beat $3.419B estimate. Q1 2026 guidance of $3.32-3.37B is well above $3.225B consensus. FY2026 revenue guidance of $15.6-16.0B vs $15.691B consensus. This is a genuine non-tech, non-AI diversifier for our heavily semiconductor-weighted portfolio. Travel demand remains robust with B2B bookings growing 26% in Q3 (17th consecutive quarter of double-digit growth). EXPE is trading at ~$241 pre-earnings, down 22% from its Jan 9 all-time high of $303.80. Analyst average target is $280.92 (23.6% upside). The earnings beat combined with the pullback from ATH creates attractive entry on consolidation.",
+    "entry_trigger": "EXPE reported strong Q4 tonight. Wait for post-earnings reaction. If stock gaps up to $255-265 range (5-10% from $241 pre-earnings), wait 2-3 sessions for consolidation. If it pulls back to $245-255, buy $75 worth. If CPI volatility tomorrow creates a dip below $240, that's an exceptional entry point. Do NOT chase above $270.",
+    "exit_trigger": "Target $290-305 (15-22% upside from $250 entry) over 3-4 months as travel demand thesis plays out. Take partial profits at $285. Stop loss at $215 (below recent support).",
+    "created_at": "2026-02-12T22:26:39.185696"
+  },
+  {
+    "id": 61,
+    "ticker": "TWLO",
+    "direction": "long",
+    "confidence": "medium",
+    "thesis": "TWLO showing durable profitability and AI tailwinds. Analyst notes today highlight 'durable profitability even with fee headwinds.' FY2026 guidance of $5.65-5.7B massively beat $5.46B consensus. Software sector got a relief bounce today with Salesforce and Oracle up 3-4%. CPI came in tame which supports growth stocks. The software rotation trade may be turning \u2014 if TWLO can stabilize above $105-110, the asymmetric upside is compelling.",
+    "entry_trigger": "TWLO beat and guided up strongly but traded down ~1.3% after hours to $109 due to software sector negativity. If CPI on Feb 13 causes further market weakness, TWLO could drop to $100-108 \u2014 buy $75 worth in that range. If it stabilizes at $105-112 for 2 sessions, initiate position. The 2026 guidance beat is too strong to ignore at these depressed levels.",
+    "exit_trigger": "Target $135-145 (25-35% upside from $108) over 3-4 months as market re-rates software names benefiting from AI. Take partial profits at $130. Stop loss at $90 (below recent lows).",
+    "created_at": "2026-02-12T22:21:09.530842"
+  },
+  {
+    "id": 60,
+    "ticker": "ROKU",
+    "direction": "long",
+    "confidence": "medium",
+    "thesis": "Roku crushed Q4 2025 earnings: EPS $0.53 vs $0.27 consensus (93% beat), revenue $1.395B beat $1.35B estimate (+16% YoY). First full-year profit in company history. Platform revenue grew 18% to $4.15B. Streaming hours up 15% to 145.6B. The Roku Channel is now #2 in free ad-supported streaming by usage behind only YouTube. For 2026, Roku guided total revenue to $5.5B (+16%) with adjusted EBITDA nearly quintupling to $635M. Premium subscription bundles are a new growth engine. Approaching 100M streaming households. This is a profitable, growing, non-AI-pure-play that provides portfolio diversification away from our semiconductor-heavy holdings. At current prices, the valuation becomes very reasonable with the profitability inflection.",
+    "entry_trigger": "ROKU surged ~13% after hours on massive earnings beat. Do NOT chase the gap-up. Wait 2-3 sessions for post-earnings consolidation. If ROKU pulls back to $115-125 from initial reaction, buy $75 worth. If it holds above the earnings-day close for 3 sessions, consider a smaller $50 entry at market.",
+    "exit_trigger": "Target $145-160 (20-35% upside from $120 entry) over 3-4 months as profitability thesis plays out. Take partial profits at $140. Stop loss at $95 (below pre-earnings level).",
+    "created_at": "2026-02-12T22:21:09.512000"
+  },
+  {
+    "id": 59,
+    "ticker": "CROX",
+    "direction": "long",
+    "confidence": "medium",
+    "thesis": "CROX thesis confirmed: Goldman Sachs maintains Sell with raised PT to $81 \u2014 a contrarian signal given the 13%+ earnings surge and strong guidance. Multiple analysts raising forecasts post-Q4. Stifel maintains Hold but raised PT to $99. The strong EPS guidance of $12.88-$13.35 (vs $11.92 consensus) implies P/E of ~10-11x which is very cheap. Wait for post-earnings consolidation as the Goldman Sell rating may weigh on sentiment near-term.",
+    "entry_trigger": "CROX surged 13%+ pre-market on Feb 12 to ~$140-150 range. Do NOT chase the gap-up on day 1. Wait 2-3 sessions for post-earnings consolidation. If CROX pulls back to $135-145 and holds above $130 (pre-earnings level), buy $75 worth. The massive EPS beat and strong guidance provide a floor. If it holds above gap-day close for 3 sessions, consider smaller $50 entry.",
+    "exit_trigger": "Target $165-175 (15-20% upside) over 3-4 months. Take partial profits at $160. Stop loss at $115 (below pre-earnings level).",
+    "created_at": "2026-02-12T20:02:18.189678"
+  },
+  {
+    "id": 58,
+    "ticker": "CSCO",
+    "direction": "long",
+    "confidence": "medium",
+    "thesis": "CSCO fell ~12% on Feb 12 to ~$77-79 on margin compression concerns (gross margin 67.5% vs 68.7%). Today with the CPI relief rally, CSCO likely stabilizing in the $76-80 range. Multiple top analysts (BofA, JPM, Wells Fargo, Morgan Stanley) maintained Buy/Overweight ratings. BofA notes 'revenue growth accelerating to 8.5% in 2026' and finds 'valuation attractive at ~18.5x forward P/E.' The selloff appears overblown. AI infrastructure orders of $2.1B with full-year projection of $5B+ are strong. Wait for stabilization in the $75-80 range.",
+    "entry_trigger": "CSCO fell to ~$77-79 range on Feb 12, down 12% from $87-88 pre-earnings. If stock stabilizes at $75-80 over 2-3 sessions and holds above the $75 level (which provides technical support), buy $100 worth (~1.3 shares). Do NOT buy if it breaks below $73 as that would signal deeper margin concerns. CPI on Feb 13 could create further volatility \u2014 wait for dust to settle.",
+    "exit_trigger": "Target $88-92 (13-18% upside) over 3-4 months as margin headwinds ease with price increases flowing through. Take partial profits at $85. Stop loss at $70 (10% below entry, below 52-week support).",
+    "created_at": "2026-02-12T20:02:02.439774"
+  },
+  {
+    "id": 57,
+    "ticker": "AMAT",
+    "direction": "long",
+    "confidence": "high",
+    "thesis": "AMAT CONFIRMED and BIS RESOLVED: AMAT surged ~10-13% on Feb 13 on strong earnings beat (EPS $2.38 vs $2.20, guidance $7.15-8.15B vs $7.01B est). AMAT settled BIS China export allegations for $252.5M \u2014 DOJ and SEC closed their investigations without action. This removes a major legal overhang. Multiple analyst upgrades: Citigroup $420, Goldman $390, Stifel $450, TD Cowen $450, Wells Fargo $435 (Overweight), BofA $420 (Buy). CEO projects 20%+ semiconductor growth in 2026. The BIS settlement is a near-term cash hit but long-term positive \u2014 removes uncertainty and allows focus on execution. Wait for post-surge consolidation.",
+    "entry_trigger": "AMAT surged to ~$370+ today. Do NOT chase at current levels. Wait for post-earnings consolidation to $350-365 over 1-2 weeks. If it pulls back to $350-360 and stabilizes, buy $100 worth. Wells Fargo notes semi systems revenue expected to grow >20% YoY. Do NOT chase above $380.",
+    "exit_trigger": "Target $420-450 (15-22% upside from $370) over 3-4 months based on upgraded analyst PTs. Take partial profits at $400. Stop loss at $330.",
+    "created_at": "2026-02-11T20:56:20.854604"
+  },
+  {
+    "id": 55,
+    "ticker": "ETN",
+    "direction": "long",
+    "confidence": "medium",
+    "thesis": "ETN trading at ~$389 on Feb 11, near 52-week high of $399.56. Reported record Q4 with sales $7.1B (+13%), full-year $27.4B. 2026 guidance: EPS $13.00-$13.50 (mid-teens growth), organic growth 7-9%. CEO highlighted 'unprecedented demand' in data center market. Mobility spinoff announced (vehicle/eMobility segments). RBC raised PT to $407. Average analyst PT ~$404. However, Morningstar notes ETN is trading at a massive 894% premium to fair value. At ~37x earnings, valuation is demanding. AI infrastructure tailwind is real but largely priced in at current levels. CFO departing April 2026 adds uncertainty.",
+    "entry_trigger": "ETN at $389 is very close to 52-week high of $399.56 \u2014 do NOT chase. Wait for pullback to $360-375 range. CPI on Feb 13 or any market pullback could provide entry. If stock pulls back 5% to $370 area, buy $75 worth. The data center power demand narrative provides a fundamental floor around $340-350.",
+    "exit_trigger": "Target $420-440 (8-13% upside) over 3-4 months. Take partial profits at $410. Stop loss at $340 (below pre-earnings support).",
+    "created_at": "2026-02-11T20:49:59.500418"
+  },
+  {
+    "id": 54,
+    "ticker": "SHOP",
+    "direction": "long",
+    "confidence": "medium",
+    "thesis": "SHOP reported Q4 Feb 11: revenue $3.67B beat ($3.59B est), 31% YoY growth. Stock surged 12%+ pre-market to $145 but then reversed sharply to $123.61 close. The massive reversal (from +12% to roughly flat/down) signals that expectations were already baked in. FCF margin guidance for Q1 at \"low-to-mid teens\" disappointed. Despite revenue beat and $2B buyback, the market is punishing the EPS miss and margin guidance. SHOP is now trading 28% below its 52-week high of $182. Software sector headwinds persist. The post-earnings reversal is bearish short-term \u2014 wait for full stabilization.",
+    "entry_trigger": "SHOP closed at $123.61 after massive intraday reversal from $145 to $122. Wait 3-5 sessions for post-earnings dust to settle. If SHOP stabilizes at $118-125 and holds above $112 (January low), buy $75 worth. The revenue beat and $2B buyback provide a floor. Do NOT buy if it breaks below $110.",
+    "exit_trigger": "Target $150-165 (20-33% upside from $123) over 3-4 months. Take partial profits at $145. Stop loss at $100.",
+    "created_at": "2026-02-11T20:49:34.881749"
+  },
+  {
+    "id": 49,
+    "ticker": "ORCL",
+    "direction": "long",
+    "confidence": "low",
+    "thesis": "ORCL remains under software sector pressure. Software stocks have been hammered by AI disruption fears \u2014 down 16.8% on average over the past month. ORCL is caught in this downdraft. However, the broader market narrative around software companies may be starting to shift as companies like Twilio (beat and guided up with 2026 revenue $5.65-5.7B vs $5.46B est) demonstrate that AI is becoming an enabler rather than just a disruptor. ORCL March 9 earnings remains a binary event. With $130B debt and dilution concerns, maintain cautious stance but monitor for software sector stabilization.",
+    "entry_trigger": "Wait for software selloff to stabilize. Only consider if ORCL pulls back to $130-135 range with clear signs of sector rotation ending. The March 9 earnings could be a catalyst but software sentiment may remain negative into that event.",
+    "exit_trigger": "Target $175-180 (15-20% upside) over 4-6 weeks into March 9 earnings. Take full profits at $180 (DA Davidson's price target). Stop loss at $120 (below recent 52-week low of $118.86). This is a swing trade, not a long-term hold.",
+    "created_at": "2026-02-09T20:44:46.582388"
+  },
+  {
+    "id": 47,
+    "ticker": "NVDA",
+    "direction": "long",
+    "confidence": "high",
+    "thesis": "NVDA at ~$181.51, now below our $184.30 avg cost (-1.5%). Price has declined 7 of last 10 sessions (-4.37% in that period). Earnings Feb 25 is THE binary event. Citi reiterated Buy today, recommending adding shares at current levels for H2 2026 outperformance. 52-week range $86.62-$212.19. Nasdaq in a five-week slump with AI anxiety dominating. Rubin/Blackwell order backlog extends into 2027. Fed minutes Wednesday could help if dovish. Key resistance at $185-186 and $192.50. Support at $175-180. All eyes on Feb 25 earnings \u2014 estimated EPS $1.52, any Rubin commentary or China revenue update will drive massive reaction.",
+    "entry_trigger": "Hold current 0.9 shares. NVDA at $181.51 is now slightly below cost. Do NOT add before Feb 25 earnings given binary risk. If pre-earnings sentiment improves and stock moves above $186, that signals strength. If earnings beat with strong Rubin commentary, expect 10-20% pop.",
+    "exit_trigger": "Target $230-250 (20-30% upside) over 2-3 months post-earnings. Take partial profits at $220. Stop loss at $165 (below post-selloff support). If earnings disappoint and stock drops below $170, exit immediately.",
+    "created_at": "2026-02-09T20:44:46.544057"
+  },
+  {
+    "id": 46,
+    "ticker": "VRT",
+    "direction": "long",
+    "confidence": "high",
+    "thesis": "VRT confirmed thesis with blowout Q4 earnings on Feb 11: Q4 net sales $2,880M (+23% YoY), organic orders surged 252%, book-to-bill 2.9x, backlog $15B (+109% YoY). Stock surged ~24% to ~$229 on CNBC. 2026 guidance: net sales $13.25-13.75B, adjusted EPS $5.97-$6.07 well above Street $5.51. Today (Feb 12) the broad market sold off hard (S&P -1.1%) but VRT's data center infrastructure story remains intact. The memory shortage narrative actually HELPS VRT \u2014 more data center builds = more power/cooling infrastructure needed. Goldman Sachs and others raising PTs. Wait for post-earnings consolidation to enter.",
+    "entry_trigger": "Do NOT chase at $229. Wait for post-earnings consolidation. If VRT pulls back to $215-225 over the next 3-5 sessions, buy $100 worth. Strong floor around $195-200 (pre-earnings level). If it holds above $225 for 3 sessions, consider smaller $75 entry. CPI on Feb 13 could create volatility to provide entry.",
+    "exit_trigger": "Target $280-300 (15-22% upside from $245) over 3-4 months. Take partial profits at $270. Stop loss at $195 (below pre-earnings level).",
+    "created_at": "2026-02-07T07:39:21.623560"
+  },
+  {
+    "id": 45,
+    "ticker": "MELI",
+    "direction": "long",
+    "confidence": "low",
+    "thesis": "MELI earnings confirmed for Feb 19-24 (sources conflict: UnusualWhales says Feb 19, Benzinga says Feb 23, Investing.com says Feb 24). MELI has missed EPS in 2 consecutive quarters (Q3 2025: EPS $8.32 vs $9.35 est, -22.4% surprise). Analysts expect Q4 EPS $11.46 and revenue $8.45B. Market has priced in +/-5.4% earnings reaction. Stock has declined 14.2% since last earnings. Despite misses, revenue has grown 39% YoY for 27 consecutive quarters above 30%. Key risks: Argentine macro headwinds, Brazil margin pressures from investment spending. This week is extremely high-risk for MELI with both MELI earnings AND Supreme Court tariff ruling both potentially hitting same week.",
+    "entry_trigger": "MELI at ~$2,025. Given 2 consecutive EPS misses and earnings this week, reduce conviction. Only buy $50 worth (not $75) if stock holds above $1,950 ahead of earnings. If Supreme Court rules tariffs illegal on Feb 20 AND MELI beats, that's a double catalyst \u2014 buy up to $100 post-confirmation. Do NOT buy pre-earnings if stock is below $1,900.",
+    "exit_trigger": "Target $2,500-2,600 (15-20% upside) over 3-4 months. Take partial profits at $2,400. Stop loss at $1,700 (52-week low is $1,724).",
+    "created_at": "2026-02-07T07:35:44.035731"
+  },
+  {
+    "id": 44,
+    "ticker": "MPWR",
+    "direction": "long",
+    "confidence": "medium",
+    "thesis": "Monolithic Power Systems (MPWR) reported record Q4 revenue of $751.2M (beat estimates, +20.8% YoY) and full-year revenue of $2.8B (+26.4%). CEO raised the enterprise data growth floor to 50% for 2026 (up from 30-40%). Book-to-bill ratio is well above 1 with backlog extending into Q2-Q3 2026. The company increased its dividend 28% to $2/share, signaling confidence. MPWR is a high-quality AI power management play with diversification across auto (43% growth), data center, and communications. At ~$1,207 after earnings, with Oppenheimer targeting $1,300 and Stifel at $1,300, there's ~8% near-term upside from multiple analyst upgrades. The power management layer of AI infrastructure is a less crowded, high-margin way to play the AI capex theme.",
+    "entry_trigger": "Buy on post-earnings stabilization at $1,150-1,210 range. Stock traded up ~$52 to $1,207 on Feb 6 after earnings. If it holds above $1,150 for 2 sessions, initiate a position ($150-200 worth, ~0.15 fractional shares). Ideal entry on any pullback to $1,100-1,150.",
+    "exit_trigger": "Target $1,300-1,350 (8-12% upside) over 2-3 months as enterprise data growth accelerates. Take profits at $1,300. Stop loss at $1,050 (below pre-earnings support).",
+    "created_at": "2026-02-07T07:35:44.017168"
+  },
+  {
+    "id": 42,
+    "ticker": "AMD",
+    "direction": "long",
+    "confidence": "medium",
+    "thesis": "AMD reported record Q4 revenue of $10.3B (beat $9.67B estimate), record non-GAAP EPS of $1.53 (beat $1.32), and data center revenue grew 39% YoY to $5.4B. Stock plunged 17% post-earnings but has rebounded strongly \u2014 trading at ~$209 on Feb 9 (up from $187.75 low). ARK bought 141K shares at ~$200. OpenAI deal for 6GW of Instinct GPUs (MI450) starting H2 2026 is on track per CEO Lisa Su. 34 analysts consensus Buy with $260.91 target. Key concern: OpenAI concentration risk and operating expense overruns ($200M above guidance). Goldman Sachs has NVDA at $250 PT \u2014 if NVDA earnings on Feb 25 are strong, AMD benefits from AI capex sentiment. Next AMD earnings May 5.",
+    "entry_trigger": "AMD at ~$209 is now slightly above the original $195-205 entry range. Given the strong bounce, buy on any pullback to $200-205 range ($150 worth, ~0.7 shares). The stock is confirming support above $195. If it consolidates above $205 for 2 sessions, initiate position at current levels.",
+    "exit_trigger": "Target $250-260 (20-25% upside) over 3-4 months as OpenAI deployment ramp visibility improves. Take partial profits at $240. Stop loss at $185 (below post-earnings selloff low).",
+    "created_at": "2026-02-07T07:26:21.640763"
+  },
+  {
+    "id": 41,
+    "ticker": "CAT",
+    "direction": "avoid",
+    "confidence": "high",
+    "thesis": "CAT continues to be overvalued after surging 6-7% on Feb 6 and hitting an all-time intraday high above $720. The stock is now up 25% YTD. While the AI data center power story is real (record backlog), the stock is pricing in perfection at ~32x earnings. Risk/reward is poor at these levels. Avoid buying.",
+    "entry_trigger": "Avoid buying at current levels (~$726). Consider only on a pullback to $620-650 range where valuation becomes more reasonable.",
+    "exit_trigger": "N/A \u2014 avoid thesis. Reassess if price pulls back 15%+ to $615 area.",
+    "created_at": "2026-02-07T07:21:02.423642"
+  }
+]
