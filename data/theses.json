@@ -1,5 +1,25 @@
 [
   {
+    "id": 77,
+    "ticker": "UBER",
+    "direction": "long",
+    "confidence": "medium",
+    "thesis": "Uber is down 30% from 52-week highs and 14% YTD at ~$70-73, creating a deep value contrarian opportunity. Despite the Q4 EPS miss ($0.71 vs $0.7788), revenue grew 20% YoY to $14.37B. The company is aggressively investing in robotaxi infrastructure \u2014 $100M in charging hubs today, $500M Waabi partnership, 20+ AV partnerships globally. Consensus PT ~$105, implying 50% upside from current levels. Uber's asset-light autonomy model \u2014 providing the demand network while partners supply the vehicles \u2014 is potentially the winning strategy for robotaxis. New robotaxi-bull CFO signals deeper commitment. The stock trades at just 15x trailing earnings despite 20% growth, which is deeply undervalued for a tech platform at this scale (9.4M drivers, 200M users). This provides critical non-semiconductor, non-AI-infrastructure diversification.",
+    "entry_trigger": "UBER at ~$70-73 after 30% drawdown from highs. Buy $75 worth if stock holds above $68 for 2 sessions. The Q1 guidance of $52-53.5B gross bookings (17-21% growth) provides a floor. Robotaxi charging hub investment today is a positive catalyst. Do NOT buy if stock breaks below $65.",
+    "exit_trigger": "Target $90-100 (25-40% upside) over 3-4 months as robotaxi narrative gains traction and growth re-rates the multiple. Take partial profits at $85. Stop loss at $60.",
+    "created_at": "2026-02-18T20:02:58.233986"
+  },
+  {
+    "id": 76,
+    "ticker": "ADI",
+    "direction": "long",
+    "confidence": "medium",
+    "thesis": "Analog Devices reported a blowout Q1 FY2026: Revenue $3.16B (+30% YoY), beating $3.12B estimate. Adjusted EPS $2.46 beat $2.31 consensus. Communications revenue grew 63%, Industrial revenue +38%, with record data center orders. Q2 guidance: EPS $2.88 (vs $2.31 consensus \u2014 massive beat). Data center business grew ~50% in FY2025 and accelerated further. ADI's analog/mixed-signal power and optical portfolios are critical for AI data center evolution. Stock hit 52-week high at ~$346. This is a less crowded way to play the AI data center infrastructure theme vs NVDA/AMD. Industrial cyclical recovery provides additional tailwind. Adjusted gross margin improved 240 bps to 71.2% and operating margin 500 bps to 45.5%. Dividend raised 11%.",
+    "entry_trigger": "ADI at $346 is at 52-week highs after earnings surge. Do NOT chase today. Wait for any post-earnings consolidation to $330-340 range. If broader market volatility from NVDA earnings (Feb 25) or other events pulls ADI back, that's the entry. Buy $75 worth on any 3-5% pullback. UBS has $400 PT.",
+    "exit_trigger": "Target $380-400 (10-15% upside) over 3-4 months as data center and industrial cycles continue strengthening. Take partial profits at $375. Stop loss at $310.",
+    "created_at": "2026-02-18T20:02:58.213686"
+  },
+  {
     "id": 75,
     "ticker": "DDOG",
     "direction": "long",
@@ -34,9 +54,9 @@
     "ticker": "PANW",
     "direction": "long",
     "confidence": "medium",
-    "thesis": "Palo Alto Networks reports fiscal Q2 2026 earnings tomorrow (Feb 17) after close. Cybersecurity is one of the strongest non-AI-disrupted sectors \u2014 AI actually increases attack surfaces, driving more security spending. PANW has beaten revenue estimates every quarter for the past 2 years. Q1 FY2026 showed strong platformization momentum: NGS ARR grew 29% to $5.85B, operating margins hit 30.2%, and they signed record-size deals ($85M XSIAM, $33M SASE). PANW guidance for Q2 is revenue $2.57-2.59B (consensus $2.58B) and non-GAAP EPS $0.93-0.95. The platformization strategy is winning large enterprise consolidation deals. Stock is at ~$167, down from highs, creating reasonable valuation. This is a quality cybersecurity name that provides non-semiconductor diversification for our portfolio. However, note that cybersecurity stocks have underperformed recently (down 11.8% on average) and PANW trades at 10.2x P/S vs sector 6.5x.",
-    "entry_trigger": "PANW reports Feb 17 after close. Do NOT buy pre-earnings given binary risk. If PANW beats and guides up (particularly on NGS ARR and billings), buy $75 worth on any post-earnings pullback to $165-180 range. If it gaps up above $180 and holds for 2 sessions, consider $50 entry. Do NOT chase above $190.",
-    "exit_trigger": "Target $195-210 (17-26% upside from $167) over 3-4 months as cybersecurity spending accelerates. Take partial profits at $190. Stop loss at $145 (below recent support).",
+    "thesis": "PANW reported Q2 FY2026: Revenue $2.6B (+15% YoY), non-GAAP EPS $1.03 (beat $0.93-0.95 guidance), NGS ARR grew 33% to $6.33B, RPO $16B. However, Q3 guidance disappointed: non-GAAP EPS $0.78-$0.80 vs $0.92 consensus, due to CyberArk ($25B) and Chronosphere ($3B+) acquisition integration costs. Stock fell ~7-8% to ~$163-167 post-earnings. Full-year guidance: revenue $11.28-11.31B (22-23% growth), non-GAAP EPS $3.65-3.70. The platformization thesis is intact \u2014 NGS ARR acceleration to 50%+ guided for Q3. But near-term margin dilution from massive M&A creates a \"growing pains\" period. CrowdStrike may benefit short-term as PANW integrates. The pullback creates a potential entry for patient investors, but the guidance miss means waiting for stabilization.",
+    "entry_trigger": "PANW at ~$163-167 post-earnings pullback. Wait for stabilization at $155-165 over 2-3 sessions. If it holds above $155, buy $75 worth. The Q3 EPS guide miss will keep pressure short-term but NGS ARR growth of 33% and full-year revenue guide of 22-23% growth are strong. Do NOT chase below $150 as that signals deeper concerns.",
+    "exit_trigger": "Target $190-210 over 3-4 months as CyberArk integration starts showing revenue synergies. Take partial profits at $185. Stop loss at $140.",
     "created_at": "2026-02-16T20:02:07.166508"
   },
   {
@@ -48,16 +68,6 @@
     "entry_trigger": "SNOW at ~$184 today, up 6.4%. Wait for any pullback to $170-180 range. If broader market weakness from Supreme Court ruling (Feb 20) pulls SNOW back to $170-175, buy $75 worth. Alternatively, if NVDA earnings on Feb 25 are strong and SNOW gaps up on AI sentiment before its own earnings Feb 26, consider a smaller $50 pre-earnings position if below $185. Do NOT chase above $195.",
     "exit_trigger": "Target $220-240 (20-30% upside from $180 entry) over 3-4 months as AI data infrastructure demand accelerates. Take partial profits at $210. Stop loss at $150 (below recent support).",
     "created_at": "2026-02-13T20:45:11.653132"
-  },
-  {
-    "id": 69,
-    "ticker": "CRWD",
-    "direction": "long",
-    "confidence": "low",
-    "thesis": "CRWD thesis under pressure: Stock fell ~7% today after Mizuho cut price target to $490 from $540 and DZ BANK issued a Sell rating. Insider selling activity is elevated (CEO sold $11.9M in shares Feb 4, CFO sold $5.4M). However, average analyst PT remains $538-555, consensus is Outperform. The 7% pullback may be creating the entry opportunity we've been waiting for \u2014 but the Mizuho downgrade citing moderating partner checks is a yellow flag. Earnings in March will be the true test. Cybersecurity sector broadly under pressure from AI disruption narrative.",
-    "entry_trigger": "CRWD now at ~$400-410 after 7% drop. This is below our original $410-425 entry range. If it stabilizes above $390 for 2 sessions, consider small $50 entry. The Mizuho downgrade creates uncertainty but analyst consensus remains bullish ($538 avg PT). Wait for stabilization before acting.",
-    "exit_trigger": "Target $500-520 (16-20% upside) over 3-4 months as cybersecurity spending accelerates in AI era. Take partial profits at $490. Stop loss at $370 (below recent support).",
-    "created_at": "2026-02-13T20:45:11.628872"
   },
   {
     "id": 68,
@@ -184,7 +194,7 @@
     "ticker": "NVDA",
     "direction": "long",
     "confidence": "high",
-    "thesis": "NVDA at ~$181.51, now below our $184.30 avg cost (-1.5%). Price has declined 7 of last 10 sessions (-4.37% in that period). Earnings Feb 25 is THE binary event. Citi reiterated Buy today, recommending adding shares at current levels for H2 2026 outperformance. 52-week range $86.62-$212.19. Nasdaq in a five-week slump with AI anxiety dominating. Rubin/Blackwell order backlog extends into 2027. Fed minutes Wednesday could help if dovish. Key resistance at $185-186 and $192.50. Support at $175-180. All eyes on Feb 25 earnings \u2014 estimated EPS $1.52, any Rubin commentary or China revenue update will drive massive reaction.",
+    "thesis": "NVDA trading at ~$190 today, now above our $184.30 avg cost (+3.1%). Stock has recovered from recent lows. Earnings Feb 25 remains THE binary event \u2014 one week away. Meta expanding Nvidia AI chip deal is a bullish signal. Estimated EPS $1.52. NVDA partnered with Meta for next-gen chips. ADI's blowout earnings today (30% revenue growth, record data center orders) validates the AI infrastructure spending narrative heading into NVDA earnings. Key resistance at $192.50. Support at $185.",
     "entry_trigger": "Hold current 0.9 shares. NVDA at $181.51 is now slightly below cost. Do NOT add before Feb 25 earnings given binary risk. If pre-earnings sentiment improves and stock moves above $186, that signals strength. If earnings beat with strong Rubin commentary, expect 10-20% pop.",
     "exit_trigger": "Target $230-250 (20-30% upside) over 2-3 months post-earnings. Take partial profits at $220. Stop loss at $165 (below post-selloff support). If earnings disappoint and stock drops below $170, exit immediately.",
     "created_at": "2026-02-09T20:44:46.544057"

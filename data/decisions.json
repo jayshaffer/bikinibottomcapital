@@ -1,5 +1,53 @@
 [
   {
+    "id": 149,
+    "date": "2026-02-18",
+    "ticker": "ADI",
+    "action": "hold",
+    "quantity": null,
+    "price": 346.56,
+    "reasoning": "ADI delivered blowout Q1 (30% YoY revenue growth to $3.16B, EPS $2.46 beat $2.31, Q2 guide EPS $2.88 vs $2.31 consensus, record data center orders). Stock at ~$346, 52-week high. Playbook specifies: 'Do NOT chase today. Wait for 3-5% pullback to $330-340. Buy $75 on consolidation.' UBS PT $400 supports thesis, but entry discipline is critical. Stock has run hard on earnings beat; 3-5% pullback (to $330-340 range) provides better risk/reward. Do not FOMO-chase. Current $229 cash position also argues for discipline. Await pullback confirmation.",
+    "outcome_7d": null,
+    "outcome_30d": null,
+    "order_id": null
+  },
+  {
+    "id": 148,
+    "date": "2026-02-18",
+    "ticker": "NVDA",
+    "action": "hold",
+    "quantity": null,
+    "price": 187.29,
+    "reasoning": "NVDA at ~$190, above our $184.30 avg cost (0.9 shares). Playbook explicitly states: 'Do NOT add before Feb 25 earnings \u2014 binary risk.' NVDA earnings in 7 days is the single largest portfolio catalyst. Meta chip deal expansion is bullish, but holding current 0.9 shares pending earnings announcement is prudent. Rangebound $175-192 for months. A beat could push to $220+; a miss to $165. Defer $100 add-on decision to post-earnings guidance commentary. Maximum conviction decision point Feb 25 after-hours.",
+    "outcome_7d": null,
+    "outcome_30d": null,
+    "order_id": null
+  },
+  {
+    "id": 147,
+    "date": "2026-02-18",
+    "ticker": "UBER",
+    "action": "hold",
+    "quantity": null,
+    "price": 72.85,
+    "reasoning": "UBER at ~$71 (down 30% from 52-week high). Thesis is sound: $100M robotaxi hub, $500M Waabi partnership, 20+ AV partnerships, 50% consensus upside to $105. However, playbook specifies 'buy $75 worth if holds above $68 for 2 sessions.' Current price structure not yet confirmed above $68 support level over 2 full sessions. Hold cash and await price stability confirmation before entry. Lower opportunity cost given NVDA earnings catalyst in 7 days.",
+    "outcome_7d": null,
+    "outcome_30d": null,
+    "order_id": null
+  },
+  {
+    "id": 146,
+    "date": "2026-02-18",
+    "ticker": "PANW",
+    "action": "hold",
+    "quantity": null,
+    "price": 331.03,
+    "reasoning": "PANW at ~$163 is down 7-8% post-earnings on Q3 EPS guide miss ($0.78-0.80 vs $0.92 est). Platformization thesis remains intact, but integration costs from $25B CyberArk and $3B Chronosphere acquisitions will pressure margins 2-3 quarters. Playbook specifies 'wait 2 sessions for stabilization above $155 then buy $75.' Current conditions: stock stabilizing but not yet demonstrating firm support. Defer entry until clearer consolidation pattern emerges and positioning stabilizes. Do not chase into weakness.",
+    "outcome_7d": null,
+    "outcome_30d": null,
+    "order_id": null
+  },
+  {
     "id": 145,
     "date": "2026-02-16",
     "ticker": "IWM",

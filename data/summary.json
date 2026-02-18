@@ -1,12 +1,12 @@
 {
-  "portfolio_value": 2018.03,
-  "cash": 304.08,
-  "invested": 1713.95,
-  "positions_count": 10,
+  "portfolio_value": 2004.2,
+  "cash": 229.38,
+  "invested": 1774.82,
+  "positions_count": 11,
   "last_updated": "2026-02-18",
-  "daily_pnl": 22.99,
-  "daily_pnl_pct": 1.152357847461705,
-  "total_pnl": 18.03,
-  "total_pnl_pct": 0.9015,
+  "daily_pnl": -13.83,
+  "daily_pnl_pct": -0.6853218237588143,
+  "total_pnl": 4.2,
+  "total_pnl_pct": 0.21,
   "inception_date": "2026-02-07"
 }
