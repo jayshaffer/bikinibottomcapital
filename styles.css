@@ -319,13 +319,11 @@ footer a:hover {
   text-decoration: underline;
 }
 
-/* === Reasoning tooltip === */
+/* === Reasoning cell === */
 .reasoning-cell {
-  max-width: 250px;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  cursor: help;
+  max-width: 400px;
+  font-size: 0.8rem;
+  line-height: 1.5;
 }
 
 /* === Order ID === */
